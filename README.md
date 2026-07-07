@@ -15,7 +15,8 @@ This project demonstrates core Object-Oriented Programming (OOP) concepts, inclu
 2. Extract the ZIP file.
 3. Open the folder.
 4. Run SmartRetail.exe.  *(No external Java installation required.)*
-5. Log in using the provided credentials as follows.
+5. If Windows Defender shows "Windows protected your PC", select 'More info' and Choose 'Run anyway'.
+6. Log in using the provided credentials as follows.
 
 ---
 
@@ -79,6 +80,24 @@ The system architecture follows these OOP principles:
 - IntelliJ IDEA
 - Git & Github
 - OOP Principles (Inheritance, Polymorphism, Abstraction, Encapsulation)
+
+---
+
+## System Screenshots
+### Welcome Screen
+![Welcome Screen](screenshots/welcome.png)
+
+---
+
+### Staff Login
+![Login Page](screenshots/login.png)
+![Staff Main Menu](screenshots/staff_main_menu.png)
+
+---
+
+### Customer Login
+![Login Page](screenshots/login.png)
+![Customer Main Menu](screenshots/customer_main_menu.png)
 
 ---
 
