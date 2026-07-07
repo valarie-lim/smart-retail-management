@@ -89,14 +89,13 @@ The system architecture follows these OOP principles:
 
 ---
 
-### Staff Login
+### Staff
 ![Login Page](screenshots/login.png)
 ![Staff Main Menu](screenshots/staff_main_menu.png)
 
 ---
 
-### Customer Login
-![Login Page](screenshots/login.png)
+### Customer
 ![Customer Main Menu](screenshots/customer_main_menu.png)
 
 ---
