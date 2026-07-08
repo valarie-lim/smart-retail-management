@@ -91,7 +91,7 @@ The system architecture follows these OOP principles:
 
 ### Staff
 ![Login Page](screenshots/login.png)   
-![Staff Main Menu](screenshots/staff_main_menu.jpg)
+![Staff Main Menu](screenshots/staff_main_menu.png)
 
 ---
 
